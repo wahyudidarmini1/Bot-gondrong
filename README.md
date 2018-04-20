@@ -1,24 +1,4 @@
-# DONE UPDATE 5_FEBRUARY_2018
-
-# 1 selfbot 2 asist
-V2.1 editor_::
-Prankbots
-# PRANKBOTS
-![Prankbots](prankbots.png)
-V2.1 last update::
-05/0/2018
-# CONTACT OFFICIAL
-
-<a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
-
-# LINE ME
-
-[ADD_LINE](http://line.me/ti/p/~adiputra.95)
-
-# TUTORIAL YOUTUBE
-[LIHAT_DISINI](https://youtu.be/j9VqQBZCcec)
-
-[@SUBCRABE](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+COMMAND VIA TERMUX ======= pkg install python2 -y pkg install nano -y pkg install git -y pip2 install rsa pip2 install requests pip2 install thrift==0.9.3 git clone https://github.com/Aprank/prank2asist ======== COMMAND VIA VPS/SERVER ======== sudo apt-get update -y sudo apt-get install git -y sudo apt-get install python-software-properties -y sudo pip install rsa -y sudo pip install requests sudo pip install thrift==0.9.3 git clone https://github.com/Aprank/prank2asist
 
 [BUAT AMBIL TOKKEN](http://101.255.95.249:6969)
 
